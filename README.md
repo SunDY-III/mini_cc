@@ -1,6 +1,6 @@
 # Mini CC
 
-一个用 Python 从零构建的极简编码代理（约 5000 行），灵感来自 Claude Code。
+一个用 Python 从零构建的极简coding agent（约 5000 行），灵感来自 Claude Code。
 
 ## 特性
 
